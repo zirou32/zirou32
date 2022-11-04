@@ -1,16 +1,30 @@
-### Hi there 👋
+# Welcome to my profile
 
-<!--
-**zirou32/zirou32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **zirou32**. I like to program in my free time.
 
-Here are some ideas to get you started:
+## What programming languages do I know?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- PHP
+- Javascript
+- Java
+- C#
+- LUA
+
+---
+
+## About me
+
+I have learning programming since **2021**, I started with LUA and then with **Python**. My favorite programming language is **Python**🐍
+
+Maybe i'll post some content here in **GitHub**.
+
+---
+
+## Have a great day!
+
+See you later!
+
+<!-- Yes google image lol -->
+
+![Python Logo](https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg)
